@@ -1,0 +1,15 @@
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\VirtualieUzdevumi.exe.config
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\VirtualieUzdevumi.exe
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\VirtualieUzdevumi.pdb
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\MetroFramework.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\MetroFramework.Fonts.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\MySql.Data.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi2v.Galvena.resources
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi2v.Login.resources
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi2v.Properties.Resources.resources
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi2v.csproj.GenerateResource.Cache
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi.exe
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi.pdb
+C:\Users\Sintija\Desktop\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Release\VirtualieUzdevumi.exe.config
+C:\Users\Sintija\Desktop\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi.exe
+C:\Users\Sintija\Desktop\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Release\VirtualieUzdevumi.pdb

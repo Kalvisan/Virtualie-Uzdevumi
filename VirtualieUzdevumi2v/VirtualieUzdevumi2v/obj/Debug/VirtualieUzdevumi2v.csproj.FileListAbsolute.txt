@@ -1,0 +1,13 @@
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\MetroFramework.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\MetroFramework.Fonts.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi2v.csprojResolveAssemblyReference.cache
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi2v.Properties.Resources.resources
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi2v.csproj.GenerateResource.Cache
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\VirtualieUzdevumi.exe.config
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi2v.Login.resources
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\VirtualieUzdevumi.exe
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\VirtualieUzdevumi.pdb
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\bin\Debug\MySql.Data.dll
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi.exe
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi.pdb
+C:\DropBox Kalvis\Dropbox\Public\VirtualieUzdevumi2v\VirtualieUzdevumi2v\obj\Debug\VirtualieUzdevumi2v.Galvena.resources
